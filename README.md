@@ -1,5 +1,5 @@
 
-![alt text](https://socialify.git.ci/Ubikitina/Twittter/image?language=1&owner=1&theme=Light)
+![alt text](https://socialify.git.ci/Ubikitina/Twitter/image?language=1&name=1&owner=1&theme=Light)
 
 # Goal
 I've created this project in an attempt to learn Python, and at the same time, understand how the Twitter API works and try to take advantage of it for managing my Twitter account.
